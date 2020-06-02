@@ -18281,12 +18281,7 @@ video {
 
 .text-geometric-precision {
   text-rendering: geometricPrecision;
-}
 
-.bg-gradient {
-  background: #FC466B;  /* fallback for old browsers */  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
 
 @media (min-width: 640px) {
   .sm\:space-y-0 > :not(template) ~ :not(template) {
